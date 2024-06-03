@@ -12,9 +12,9 @@ Criação de um sistema de um consultório odontológico, onde permite fazer cad
 
 Para o funcionamento do programa, é necessário rodar o arquivo:
 
-´´´
+```
 menu.js
-´´´
+```
 
 A partir daí, será dado a navegação no console dos outros menus. 
 
@@ -22,9 +22,9 @@ A partir daí, será dado a navegação no console dos outros menus.
 
 O intuito dessa aplicação é a realizar uma validação de um arquivo JSON que será passado como argumento. 
 
-´´´
+```
 node validacao.js <path do arquivo JSON de entrada>
-´´´
+```
 
 Será retornado o erro encontrado no JSON, além disso, um timestamp com data/hora de verificação.
 
