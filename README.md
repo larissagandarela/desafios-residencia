@@ -28,10 +28,10 @@ node validacao.js <path do arquivo JSON de entrada>
 
 Será retornado o erro encontrado no JSON, além disso, um timestamp com data/hora de verificação.
 
-## Desafio 3
+## Desafio 2.1
 
 Aplicação consome uma API <ExchangeRate-API> para realizar a conversão de moedas. 
 
-###### Autor
+### Autor
 
 Atividades realizadas por Larissa Gandarela.
